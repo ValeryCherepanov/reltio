@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Cassandra">
+    <CLASSES>
+      <root url="jar://C:/apache-cassandra-2.0.9/lib/libthrift-0.9.1.jar!/" />
+      <root url="jar://C:/apache-cassandra-2.0.9/lib/apache-cassandra-thrift-2.0.9.jar!/" />
+      <root url="file://C:/apache-cassandra-2.0.9/lib" />
+      <root url="jar://C:/apache-cassandra-2.0.9/lib/slf4j-log4j12-1.7.2.jar!/" />
+      <root url="jar://C:/apache-cassandra-2.0.9/lib/log4j-1.2.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/apache-cassandra-2.0.9/lib" recursive="false" />
+  </library>
+</component>
