@@ -7,6 +7,7 @@ import org.apache.thrift.transport.*;
 public class ShowKeyspaces {
 
     public static void main(String[] args) throws Exception {
+
         String host = "127.0.0.2";
         int port = 9160;
         TSocket socket = new TSocket(host, port);
