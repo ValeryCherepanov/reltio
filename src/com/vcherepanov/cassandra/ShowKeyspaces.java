@@ -10,6 +10,9 @@ public class ShowKeyspaces {
 
         String host = "127.0.0.2сссZZ111";
         int port = 9160;
+
+
+
         TSocket socket = new TSocket(host, port);
         TTransport transport = new TFramedTransport(socket);
         TProtocol proto = new TBinaryProtocol(transport);
