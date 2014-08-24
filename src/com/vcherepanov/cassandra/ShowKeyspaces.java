@@ -12,7 +12,7 @@ public class ShowKeyspaces {
         int port = 9160;
 
 
-        System.out.println("Foo");
+        System.out.println("Two");
         TSocket socket = new TSocket(host, port);
         TTransport transport = new TFramedTransport(socket);
         TProtocol proto = new TBinaryProtocol(transport);
