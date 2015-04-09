@@ -6,5 +6,6 @@ package com.vcherepanov.cassandra;
 public class One {
 	private String str;
 	private String str1;
+	private String str2;
 }
 
