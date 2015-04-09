@@ -7,5 +7,6 @@ public class One {
 	private String str;
 	private String str1;
 	private String str2;
+	private String str3;
 }
 
