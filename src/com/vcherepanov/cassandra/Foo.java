@@ -6,6 +6,6 @@ package com.vcherepanov.cassandra;
 public class Foo {
     @Override
     public String toString() {
-        return "Three";
+        return "Three1";
     }
 }
