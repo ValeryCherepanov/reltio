@@ -11,5 +11,6 @@ public class One {
 	private String str4;
 	private String str5;
 	private String str6;
+	private String str7;
 }
 
