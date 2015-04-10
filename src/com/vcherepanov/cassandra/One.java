@@ -10,5 +10,6 @@ public class One {
 	private String str3;
 	private String str4;
 	private String str5;
+	private String str6;
 }
 
